@@ -21,7 +21,7 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Redes Sociais <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h1>
     <a href = "mailto: micaelcadete07@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
