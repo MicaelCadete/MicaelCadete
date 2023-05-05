@@ -31,8 +31,8 @@
 </div>
   
     <div align="center">
-<br><p align="centre"><b>Certificação Cisco de Python</b></p>  
- <img align="center" height="120" width="110" alt="Python_badge" src="python_badge.png">
+<br><p align="center"><b>Certificação Cisco de Python</b></p>  
+<img align="center" height="120" width="110" alt="Python_badge" src="python_badge.png">
 <br></div>
   
 ![Snake animation](https://github.com/MicaelCadete/MicaelCadete/blob/output/github-contribution-grid-snake.svg)
