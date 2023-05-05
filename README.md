@@ -17,7 +17,6 @@
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="MySql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" height="70" width="60" alt="Pyton-badge.png" src="python_badge.png">  
     
    </div>
     
@@ -30,6 +29,11 @@
       <img width="25" src="linkedin.svg">
     </a>
 </div>
+  
+    <div align="center">
+<br><p align="centre"><b>Certificação Cisco de Python</b></p>  
+ <img align="center" height="120" width="110" alt="Python_badge" src="python_badge.png">
+<br></div>
   
 ![Snake animation](https://github.com/MicaelCadete/MicaelCadete/blob/output/github-contribution-grid-snake.svg)
   
