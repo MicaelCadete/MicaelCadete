@@ -1,16 +1,21 @@
 ## Programar é uma arte!
 
 
-  
-  
+</div>
+    <img align="left" width = "400px" src="https://github-readme-stats.vercel.app/api?username=MicaelCadete&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img align="right" width = "360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelCadete&layout=compact&langs_count=16&theme=react"/>
   
 </div>
+<br>
+<br>
 <br>
 
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
+    <br>
+    <br>
     <h1 align="center">Linguagens de Programação <3</h1>
     <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
