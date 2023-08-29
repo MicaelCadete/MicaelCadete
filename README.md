@@ -50,7 +50,7 @@
 </div>
 <br>
 
-![Snake animation](https://github.com/MicaelCadete/MicaelCadete/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MicaelCadete/MicaelCadete/blob/output/github-contribution-grid-snake2.svg)
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
