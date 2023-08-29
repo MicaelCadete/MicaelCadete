@@ -10,6 +10,7 @@
 </div>
 <br>
 <br>
+<br>
 <br>  
 <br>
 <br>
@@ -17,6 +18,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
+    <br>
     <br>
     <br>
     <h1 align="center">Linguagens de Programação <3</h1>
