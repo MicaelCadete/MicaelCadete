@@ -2,8 +2,10 @@
 
 
 </div>
-    <img align="left" width = "400px" src="https://github-readme-stats.vercel.app/api?username=MicaelCadete&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img align="right" width = "360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelCadete&layout=compact&langs_count=16&theme=react"/>
+    <img align="left" width = "400px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MicaelCadete&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img align="right" width = "360px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MicaelCadete&layout=compact&langs_count=16&theme=dracula"/>
+    
+    
   
 </div>
 <br>
